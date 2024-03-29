@@ -1,7 +1,7 @@
 # FPGL
-Source codes of "Flexible and Parameter-free Graph Learning for Multi-view Spectral Clustering" pubilished in IEEE TCSVT 2024
+Source codes of "Flexible and Parameter-free Graph Learning for Multi-view Spectral Clustering" pubilished in IEEE TCSVT 2024.
 
-<img src="./FBGL_framework.png" width="95%">
+<img src="./FBGL_framework.png" width="55%">
 
 If you find the codes useful in your research, please cite our work as follows, thanks.
 
